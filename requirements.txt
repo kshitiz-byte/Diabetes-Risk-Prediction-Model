@@ -1,0 +1,17 @@
+streamlit
+altair
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+plotly
+joblib
+reportlab
+dnspython
+pymongo
+pytz
+requests
+pycountry
+phonenumbers
+kaleido
